@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Pramjeet12/LeetTrack/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Pramjeet12/LeetTrack/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Pramjeet12/LeetTrack/tree/master/0189-rotate-array) |
 ## String
 |  |
