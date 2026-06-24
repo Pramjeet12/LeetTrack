@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pramjeet12/LeetTrack/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pramjeet12/LeetTrack/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -24,4 +25,13 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Pramjeet12/LeetTrack/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pramjeet12/LeetTrack/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Pramjeet12/LeetTrack/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Pramjeet12/LeetTrack/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
