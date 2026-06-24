@@ -5,12 +5,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pramjeet12/LeetTrack/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pramjeet12/LeetTrack/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Pramjeet12/LeetTrack/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Pramjeet12/LeetTrack/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Pramjeet12/LeetTrack/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pramjeet12/LeetTrack/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Pramjeet12/LeetTrack/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Pramjeet12/LeetTrack/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Pramjeet12/LeetTrack/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Pramjeet12/LeetTrack/tree/master/0344-reverse-string) |
