@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/Pramjeet12/LeetTrack/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pramjeet12/LeetTrack/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pramjeet12/LeetTrack/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pramjeet12/LeetTrack/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Pramjeet12/LeetTrack/tree/master/0485-max-consecutive-ones) |
 | [3731-find-missing-elements](https://github.com/Pramjeet12/LeetTrack/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -31,6 +32,7 @@
 | [0217-contains-duplicate](https://github.com/Pramjeet12/LeetTrack/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pramjeet12/LeetTrack/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pramjeet12/LeetTrack/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pramjeet12/LeetTrack/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Pramjeet12/LeetTrack/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
